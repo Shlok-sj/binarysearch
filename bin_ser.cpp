@@ -9,7 +9,7 @@ int main()
     cout <<"Enter no of elements : ";
     cin>>n;
     
-    cout <<"Enter elements : ";
+    cout <<"Enter elements : \n";
     
     for(int i=0; i<n; i++){
         cout<<i+1<<") ";
